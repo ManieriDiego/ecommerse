@@ -12,7 +12,7 @@
 	position: absolute;
 	font-family: 'Bona Nova', serif;
 	font-size: 13px;
-	/*nahuel puto*/
+	
 	
 }
 
@@ -33,12 +33,20 @@ a{
 	color: #bd5f14;
 }
 
+#carrito{
+	height: 93px;
+	/* background-color: #581904; */
+}
+
 .carrito{
-	width: 100%;
-	max-width: 250px;
+	/* width: 100%; */
+	max-width: 170px;
+	margin-top: 50px;
+	margin-right: 35px;
 	position: absolute;
 	z-index: 1;
 	right: 20px;
+	/* background-color: aliceblue; */
 
 }
 
